@@ -1,0 +1,15 @@
+com/exercicio1/obterdiploma/DTO/StudentDTO.class
+com/exercicio1/obterdiploma/ServletInitializer.class
+com/exercicio1/obterdiploma/Repository/SubjectRepository.class
+com/exercicio1/obterdiploma/Repository/StudentRepository.class
+com/exercicio1/obterdiploma/Entities/Student.class
+com/exercicio1/obterdiploma/Services/StudentService.class
+com/exercicio1/obterdiploma/Controller/StudentController.class
+com/exercicio1/obterdiploma/Entities/Subject.class
+com/exercicio1/obterdiploma/Exceptions/APIExceptionHandler.class
+com/exercicio1/obterdiploma/ObterDiplomaApplication.class
+com/exercicio1/obterdiploma/DTO/DiplomaDTO.class
+com/exercicio1/obterdiploma/Services/SubjectService.class
+com/exercicio1/obterdiploma/Exceptions/InvalidArgumentException.class
+com/exercicio1/obterdiploma/DTO/ExceptionDTO.class
+com/exercicio1/obterdiploma/DTO/SubjectDTO.class

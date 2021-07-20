@@ -1,0 +1,1 @@
+[{"id":1,"pedidos":[{"id":1,"mesaId":1,"pratos":[{"id":1,"preco":2.99,"descricao":"Bala","quantidade":1},{"id":2,"preco":9.99,"descricao":"Polenta","quantidade":3}],"totalConsumido":32.96}]},{"id":0,"pedidos":[{"id":1,"mesaId":1,"pratos":[{"id":1,"preco":2.99,"descricao":"Bala","quantidade":1},{"id":2,"preco":9.99,"descricao":"Polenta","quantidade":3}],"totalConsumido":32.96}]}]
